@@ -5,7 +5,7 @@
     💼 Web • Back-end dev • Front-end dev
     🎮 Music • Games • Anime • Code • Art
     </pre> -->
-    <br><br>
+    <!--<br><br>-->
     <img src="https://raw.githubusercontent.com/quenyu/quenyu/master/assets/kyubei.gif" height="40" /
     <br><br><br>
     
